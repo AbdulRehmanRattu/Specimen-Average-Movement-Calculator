@@ -21,8 +21,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 1. Clone the repository to your local machine or download the ZIP file.
-   ```bash
-   git clone https://github.com/<your-username>/motion-detection-app.git
 
 
 ### Install the required Python libraries:
@@ -31,7 +29,7 @@ Ensure Tkinter is installed (it comes pre-installed with Python).
 
 ### Running the Application
 To run the Motion Detection App, navigate to the project directory and execute:
-python motion_detection_app.py
+python app.py
 
 ### How to Use
 Upon launching the application, click "Browse" to select a video file.
