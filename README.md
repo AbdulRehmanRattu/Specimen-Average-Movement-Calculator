@@ -25,6 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Install the required Python libraries:
 pip install opencv-python numpy pillow
+
 Ensure Tkinter is installed (it comes pre-installed with Python).
 
 ### Running the Application
