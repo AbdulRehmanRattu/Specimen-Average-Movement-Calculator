@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+numpy>=1.23.0
+pillow>=9.5.0
+pyinstaller>=5.13.0
