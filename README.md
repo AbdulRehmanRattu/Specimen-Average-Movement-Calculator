@@ -3,13 +3,14 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Vision-PyTorch%20%7C%20OpenCV-EE4C2C.svg?logo=pytorch&logoColor=white" alt="Vision">
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20Contour%20Tracking-5C3EE8.svg?logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Biomedical-Motility%20Analysis-success.svg" alt="Biomedical">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -134,6 +135,8 @@ python app.py
 1. Click **Browse** to select a specimen video file (`sperm.mp4`, `simple.mp4`, or any standard `.mp4`/`.avi` microscope recording).
 2. Click **Run** to initiate automated background motion tracking.
 3. Observe live specimen contours on the video canvas and monitor real-time kinematic metrics in the logging console.
+
+---
 
 ---
 
